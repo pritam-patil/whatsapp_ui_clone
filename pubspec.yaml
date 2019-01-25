@@ -1,5 +1,5 @@
 name: whatsapp_ui_clone
-description: A new Flutter project.
+description: A sample WhatsApp UI clone.
 
 dependencies:
   faker: ^0.0.5

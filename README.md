@@ -1,10 +1,19 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 # whatsapp_ui_clone
 
 A sample WhatsApp UI clone in Flutter.
 
-## Dependancies:
+## Screens
 
-> faker: ^1.0.0
+<img src="https://github.com/pritam-patil/whatsapp_ui_clone/raw/master/android/screens/chats.png" alt="chat-screen" width="200" />
+
+<img src="https://github.com/pritam-patil/whatsapp_ui_clone/raw/master/android/screens/status.png" alt="status-screen" width="200" />
+
+<img src="https://github.com/pritam-patil/whatsapp_ui_clone/raw/master/android/screens/calls.png" alt="calls-screen" width="200" />
+
+## Dependancies
+
+> faker: ^0.0.5
 
 ## Setup
 
